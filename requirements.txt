@@ -1,0 +1,11 @@
+flask
+flask-cors
+python-dotenv
+cmake
+torch>=2.0.0
+transformers[torch]
+transformers[sentencepiece]
+accelerate
+sentencepiece
+scikit-learn
+numpy 
